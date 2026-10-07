@@ -40,5 +40,8 @@ Luego abrir http://localhost:8080
 
 ```bash
 npm run test:unit
+
+
+El proyecto fue realizado con conocimientos básicos y la ayuda de la IA (chatGPT), para entregar un código sencillo que cumpla con lo solicitado.
 npm run test:e2e
 ```
